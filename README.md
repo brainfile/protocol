@@ -1,3 +1,5 @@
+> ⚠️ **Moved.** brainfile now lives in one repo: <https://github.com/1broseidon/brainfile> — install with `npm i -g brainfile`. This repository is archived and read-only.
+
 # Brainfile Protocol
 
 [![GitHub Stars](https://img.shields.io/github/stars/brainfile/protocol?style=social)](https://github.com/brainfile/protocol/stargazers)
